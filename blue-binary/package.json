@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@astrojs/cloudflare": "^12.0.1",
-    "astro": "^5.0.3"
+    "astro": "^5.0.3",
+    "create-cloudflare": "^2.33.3"
   }
 }
